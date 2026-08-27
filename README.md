@@ -17,7 +17,6 @@
 
   <tr>
     <td colspan="2" align="center">
-      <hr>
       <h2>My Contribution Streak:</h2>
       <p>
         <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ifritov-dev&theme=github_dark" alt="GitHub Stats" />

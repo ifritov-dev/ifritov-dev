@@ -17,9 +17,10 @@
 
   <tr>
     <td colspan="2" align="center">
-      <h2>My Contribution Streak:</h2>
+      <h2>My GitHub Stats:</h2>
       <p>
-        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ifritov-dev&theme=github_dark" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ifritov-dev&theme=github_dark" height="165" alt="GitHub Streak" />
+        <img src="https://github-stats-extended.vercel.app/api?username=ifritov-dev&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark" height="165" alt="GitHub Stats" />
       </p>
       <hr>
       <h2>Technologies I work with:</h2>

@@ -1,6 +1,6 @@
 <table border="0" width="100%" style="width: 100%;">
   <tr>
-    <td align="left" valign="top">
+    <td align="left" valign="top" style="witdh: 100%">
       <h1>Hi, I’m Ifritov&nbsp;&nbsp;<img src="https://pngimg.com/uploads/hello/hello_PNG45.png" style="height: 1em; vertical-align: -0.15em;"></h1>
       <p>A full-stack developer, a student, and just an ambitious guy.</p>
       <p>I'm currently a first-year university student studying Software Engineering.</p>
@@ -8,6 +8,7 @@
         <a href="https://ifritov.top/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-ifritov.top-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
         </a>
+        &nbsp;&nbsp;
         <a href="https://t.me/ifritov" target="_blank">
           <img src="https://img.shields.io/badge/Telegram-@ifritov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
         </a>

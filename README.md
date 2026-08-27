@@ -1,6 +1,6 @@
 <table border="0" width="100%" style="width: 100%;">
   <tr>
-    <td align="left" valign="top" style="witdh: 100%">
+    <td align="left" valign="top" width="75%">
       <h1>Hi, I’m Ifritov&nbsp;&nbsp;<img src="https://pngimg.com/uploads/hello/hello_PNG45.png" style="height: 1em; vertical-align: -0.15em;"></h1>
       <p>A full-stack developer, a student, and just an ambitious guy.</p>
       <p>I'm currently a first-year university student studying Software Engineering.</p>
@@ -14,7 +14,7 @@
         </a>
       </p>
     </td>
-    <td align="right" valign="top" width="200">
+    <td align="right" valign="top" width="25%">
       <img src="https://cdn.stickermule.com/core/stores/images/a28e3d42-19c9-45fe-b0a2-a18d12fefb45_400w_400h.png" width="200" />
     </td>
   </tr>

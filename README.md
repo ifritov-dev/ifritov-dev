@@ -8,6 +8,7 @@
         <a href="https://ifritov.top/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-ifritov.top-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
         </a>
+        &nbsp;&nbsp;
         <a href="https://t.me/ifritov" target="_blank">
           <img src="https://img.shields.io/badge/Telegram-@ifritov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
         </a>
